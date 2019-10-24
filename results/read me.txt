@@ -1,0 +1,5 @@
+1-run plotResuts3D_pareto.m to show the comparasion btween NSGAII,NSGA3and MOJPSO
+2-run MplotSensors.m to plot the sensor distribution for NSGA3 
+3-run MplotStatistics.m to plot the execution time and sensors number statistics for NSGA3
+4-run plotResults2D.m to plot the pareto in 2D
+
